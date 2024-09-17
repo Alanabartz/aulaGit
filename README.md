@@ -1,2 +1,2 @@
-# aulaGit
+# AulaGit
 Meu primeiro Git
